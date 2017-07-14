@@ -1,0 +1,18 @@
+h3 {
+  font-family: Times;
+  font-size: 16px;
+  color:darkblue;
+}
+p {
+  font-family: Times;
+  font-size: 16px;
+  color:DarkBlue;
+}
+body {
+  background-color: #72be9a;
+}
+header {
+  font-family: cursive;
+  font-size: 32px;
+  color: magenta;
+}
