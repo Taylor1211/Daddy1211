@@ -1,18 +1,103 @@
-h3 {
-  font-family: Times;
-  font-size: 16px;
-  color:darkblue;
+
+#logo{
+  font-size: 60px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: darkblue;
+}
+#sexy{
+  text-align: center;
+}
+#mf{
+  text-align: center;
+}
+#ww{
+  text-align: center;
+}
+header{
+  text-align: center;
+  font-size: 30px;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 700;
 }
 p {
-  font-family: Times;
-  font-size: 16px;
-  color:DarkBlue;
+  color: darkblue;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  text-align: left;
 }
 body {
-  background-color: #72be9a;
+  background-color:grey;
 }
-header {
-  font-family: cursive;
-  font-size: 32px;
-  color: magenta;
+h1 {
+  color: lightblue;
+  text-align: center;
+  font-size: 45px
+}
+img {
+  text-align: center;
+}
+h2 {
+  color: lightblue;
+  font-family: 'Lemonada', cursive;
+  font-size: 20px
+}
+#one{
+  font-size:20px;
+  color: Raven black;
+}
+#two{
+  font-size: 20px;
+  color:White;
+}
+#three{
+  font-size: 20px;
+  color: #800000;
+}
+#four{
+  font-size: 20px;
+  color: #ff0800;
+}
+#five{
+  font-size: 20px;
+  color: #000000;
+}
+#six{
+  font-size: 20px;
+  color: #bfff00;
+}
+#s{
+  font-size: 20px;
+  color: #ffff00
+}
+#e{
+  font-size: 20px;
+  color: #ff0000;
+}
+#n{
+  font-size: 20px;
+  color: #fff700;
+}
+#ss{
+  font-size: 20px;
+  color: #ffffe0;
+}
+#se{
+  font-size: 20px;
+  color: #ffa500
+}
+#sv{
+  font-size: 20px;
+  color: #ee82ee
+}
+#sw{
+  font-size: 20px;
+  color: #90ee90
+}
+#sav{
+  font-size: 20px;
+  color: #654321
 }

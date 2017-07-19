@@ -1,0 +1,20 @@
+
+body{
+  background-color: black;
+}
+header{
+  text-align: center;
+  font-size: 30px;
+}
+h1{
+  color: lightblue;
+  text-align: center;
+}
+h2{
+  color: silver;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 700;
+}

@@ -1,0 +1,43 @@
+
+#one{
+  font-size: 20px;
+  color: #ffa500;
+}
+#two{
+  font-size: 20px;
+  color: #00ff00;
+}
+#three{
+  font-size: 20px;
+  color: #0000ff;
+}
+#four{
+  font-size: 20px;
+  color: #ff7f50;
+}
+#five{
+  font-size: 20px;
+  color: #aec6cf;
+}
+body{
+  background-color: #000000;
+}
+header{
+  text-align: center;
+  font-size: 30px;
+}
+h1{
+  color: white;
+  text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+h2{
+  color: white;
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 700;
+}

@@ -1,0 +1,24 @@
+
+body{
+  background-color: black;
+}
+header{
+  text-align: center;
+  font-size: 30px;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 700;
+}
+h1{
+  color: Red;
+  font-family: 'Lemonada', cursive;
+  font-size: 45px;
+  text-align: center;
+}
+h2{
+  color: red;
+  font-family: 'Kite One', sans-serif;
+  font-size: 30px;
+}
